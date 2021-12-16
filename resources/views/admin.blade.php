@@ -77,7 +77,7 @@
                 <input type="email" placeholder="Your email" class="form-control mb-2">
 
                 <div class="mt-4 mb-2">
-                    <label for="formFile" class="form-label">Uplaod your profile picture.</label>
+                    <label for="formFile" class="form-label">Upload your profile picture.</label>
                     <input class="form-control" type="file" id="formFile">
                 </div>
 
