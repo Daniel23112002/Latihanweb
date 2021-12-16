@@ -251,7 +251,7 @@
                                     <h4 class="text-white">Battle of Stalingrad 23 August 1942</h4>
                                     <p class="mb-0 text-white-50">Battle of Stalingrad, (July 17, 1942–February 2, 1943), successful Soviet defense of the city of Stalingrad (now Volgograd), Russia, U.S.S.R. , during World War II. ... It stopped the German advance into the Soviet Union and marked the turning of the tide of war in favour of the Allies.</p>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
-                                    <button class="btn btn-white" style="padding: 10px 15px">Ini button pak, thx.</button>
+                                    <button class="btn btn-white" style="padding: 10px 15px">MORE DETAILS</button>
                                 </div>
                             </div>
                         </div>
@@ -269,7 +269,7 @@
                                     <h4 class="text-white">Battle of Berlin 16 April 1945</h4>
                                     <p class="mb-0 text-white-50">The Battle of Berlin resulted in the surrender of the German army and the death of Adolf Hitler (by suicide). It was a resounding victory for the Soviet Union and the Allies. The battle took its toll on both sides, however. Around 81,000 Soviet Union soldiers were killed and another 280,000 were wounded.</p>
                                     <hr class="d-none d-lg-block mb-0 me-0" />
-                                    <button class="btn btn-white" style="padding: 10px 15px">Ini button pak, thx.</button>
+                                    <button class="btn btn-white" style="padding: 10px 15px">MORE DETAILS</button>
                                 </div>
                             </div>
                         </div>
@@ -278,7 +278,7 @@
             </div>
 
             <div class="d-flex justify-content-center pt-5">
-                <button class="btn btn-black">Sea morph</button>
+                <button class="btn btn-black">SEE MORE</button>
             </div>
         </section>
         <!--footer -->
